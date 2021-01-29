@@ -1,6 +1,6 @@
 ---
 title: "Undergrad Capstone Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "AutoPhrase Website <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 Coming soon...
