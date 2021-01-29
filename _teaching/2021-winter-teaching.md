@@ -2,7 +2,7 @@
 title: "2021-Winter-DSC190-Introduction to Data Mining"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-winter-teaching
+permalink: /teaching/2021-winter-teaching
 venue: "HDSI, UCSD"
 date: 2021-01-01
 location: "City, Country"
