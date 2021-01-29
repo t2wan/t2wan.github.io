@@ -16,15 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Entegris, Inc., Burnet, TX, Jan 2021- Present
+  * Inventory Analyst
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Entegris, Inc., Burnet, TX, Jun 2020- Sep 2020
+  * Data Analyst Intern
+  
   
 Skills
 ======
