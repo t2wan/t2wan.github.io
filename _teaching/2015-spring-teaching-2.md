@@ -1,14 +1,14 @@
 ---
 title: "2021-Winter-DSC190-Introduction to Data Visualization"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "HSDI, UCSD"
 date: 2020-01-01
 location: "City, Country"
 ---
 
-Undergraduate Instructional Assistant..
+Undergraduate Instructional Assistant.
 
 Course Description
 ======
