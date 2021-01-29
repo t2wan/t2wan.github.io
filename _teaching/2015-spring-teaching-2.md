@@ -1,5 +1,5 @@
 ---
-title: "2021-Winter-DSC190-Introduction to Data Visualization"
+title: "2020-Spring-DSC106-Introduction to Data Visualization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
