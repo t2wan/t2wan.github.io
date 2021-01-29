@@ -21,7 +21,7 @@ I am quite interested in learning different languages. While I am a native speak
 
 Hobbies
 ======
-I have a 10 year experience in Jazz Drum and 8 year experience in Korean Taekwondo. 
+10 years experience in Jazz Drum and 8 years experience in Korean Taekwondo. 
 
 
 
