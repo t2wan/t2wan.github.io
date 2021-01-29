@@ -2,7 +2,7 @@
 title: "2020-Spring-DSC106-Introduction to Data Visualization"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-spring-teaching
 venue: "HSDI, UCSD"
 date: 2020-01-01
 location: "City, Country"
