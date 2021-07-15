@@ -1,5 +1,5 @@
 ---
-title: "Coming soon"
+title: "Towards Comprehensive Patent Approval Predictions: Beyond Traditional Document Classification"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This is to be expected soon'
