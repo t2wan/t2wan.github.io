@@ -83,8 +83,8 @@ author:
   name             : "Tiange Wan"
   avatar           : "profile.jpeg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Austin,Texas"
-  employer         : "Entegris"
+  location         : "Vancouver, British Columbia"
+  employer         : #"Entegris"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "wantiange1999@gmail.com"
@@ -99,7 +99,7 @@ author:
   github           : "t2wan"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@tiangewan"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/tiange-wan-3402b8168/"
