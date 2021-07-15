@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Senior Undergrad Student major in Data Science at University of California, San Diego. I spent most of my undergrad time in the industry. However, I do have a tentative plan to do some research for my Grad School.
+Data Science/Computer Science Passionate
 
 Research Interests
 ======
