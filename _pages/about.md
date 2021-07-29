@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Tiange's personal website!"
+title: "Tiange Wan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Data Science/Computer Science Passionate
 
 Research Interests
 ======
-I don't think there would be anyone looking at this page, but I would say I am broadly interested in anything that requires programming. Will add more in the future.
+Data Mining, Natural Language Processing, etc.
 
 Languages 
 ======
