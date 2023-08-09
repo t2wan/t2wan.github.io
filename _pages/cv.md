@@ -23,6 +23,9 @@ Work Experience
  
 * Fairchild TV, Richmond, BC, Jun 2023 - Present
   * Digital Content Producer (Part time)
+ 
+* Mercur IT Solutions, Port Moody, BC, Apr 2022 - Aug 2022
+  * Python Developer
   
 * Entegris, Inc., Burnet, TX, Jan 2021 - Mar 2021
   * Inventory Analyst
