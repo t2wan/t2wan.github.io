@@ -12,12 +12,18 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science, Simon Fraser University, Sep 2021 - Dec 2022
-* B.S. in Data Science, University of California, San Diego, Sep 2017 - Mar 2021
+* B.S. in Data Science, University of California San Diego, Sep 2017 - Mar 2021
 * Exchange Student, Fudan University, 2019
 
 
 Work Experience
 ======
+* LTIMindtree, Calgary, AB, Jul 2023 - Present
+  * Database Engineer
+ 
+* Fairchild TV, Richmond, BC, Jun 2023 - Present
+  * Digital Content Producer (Part time)
+  
 * Entegris, Inc., Burnet, TX, Jan 2021 - Mar 2021
   * Inventory Analyst
 
