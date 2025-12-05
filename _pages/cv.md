@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-* Edmonton, Edmonton, AB, Oct 2025 - Present
+* City of Edmonton, Edmonton, AB, Oct 2025 - Present
   * Operations Analyst
     
 * LTIMindtree, Calgary, AB, Jul 2023 - Sep 2024
