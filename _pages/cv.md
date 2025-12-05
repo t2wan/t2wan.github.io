@@ -18,10 +18,13 @@ Education
 
 Work Experience
 ======
-* LTIMindtree, Calgary, AB, Jul 2023 - Present
-  * Database Engineer
+* Edmonton, Edmonton, AB, Oct 2025 - Present
+  * Operations Analyst
+    
+* LTIMindtree, Calgary, AB, Jul 2023 - Sep 2024
+  * Cloud Engineer
  
-* Fairchild TV, Richmond, BC, Jun 2023 - Present
+* Fairchild TV, Richmond, BC, Jun 2023 - Jul 2023
   * Digital Content Producer (Part time)
  
 * Mercur IT Solutions, Port Moody, BC, Apr 2022 - Aug 2022
